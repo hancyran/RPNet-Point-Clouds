@@ -1,2 +1,2 @@
-# Deeper or Wider Networks of Point Clouds with Self-attention? 
-code is coming soon. (CVPR 2021 under review)
+# Learning Inner-group Relations on Point Clouds - ICCV2021
+code is coming soon. 
