@@ -1,2 +1,2 @@
-# Learning Inner-group Relations on Point Clouds - ICCV2021
+# Learning Inner-group Relations on Point Clouds
 code is coming soon. 
