@@ -1,6 +1,6 @@
 # Learning Inner-group Relations on Point Clouds (ICCV 2021)
 
-### [Project page](https://hancyran.github.io//jekyll/update/2021/07/25/RPNet.html) |   [Paper](https://arxiv.org/abs/2108.12468)
+### [Project page](https://hancyran.github.io//jekyll/update/2021/07/25/RPNet.html) |   [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ran_Learning_Inner-Group_Relations_on_Point_Clouds_ICCV_2021_paper.pdf) | [ArXiv](https://arxiv.org/abs/2108.12468)
 
 [Haoxi Ran](https://hancyran.github.io/), [Wei Zhuo](https://scholar.google.com.au/citations?user=Q-UjnzEAAAAJ&hl=en), Jun Liu, Li Lu
 
