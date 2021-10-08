@@ -1,4 +1,5 @@
-# Learning Inner-group Relations on Point Clouds (ICCV 2021)
+# Learning Inner-group Relations on Point Clouds 
+# (ICCV 2021)
 
 ### [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Ran_Learning_Inner-Group_Relations_on_Point_Clouds_ICCV_2021_paper.pdf) | [ArXiv](https://arxiv.org/abs/2108.12468)
 
